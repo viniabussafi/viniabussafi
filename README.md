@@ -4,5 +4,5 @@ My main focus at the moment is creating dune dashboards and spells, which you ca
 - [Dashboards](https://dune.com/balancer)
 - [Spells](https://github.com/duneanalytics/spellbook/tree/main/models/balancer)
 
-- You can reach me on [twitter](https://twitter.com/viniabussafi) or discord (viniabussafi #8003)
-- 
+You can reach me on [twitter](https://twitter.com/viniabussafi) or discord (viniabussafi #8003)
+
